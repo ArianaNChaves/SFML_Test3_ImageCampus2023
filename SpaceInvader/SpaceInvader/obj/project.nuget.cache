@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "iy+RWcQIxfXUtYYosInMdE0CH5Kgrxi/VunGHj112WX/w9ZwWNqdqIB1CitTwZQrUN2+IqVgHhDqVeOY6cFXRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ariana\\OneDrive\\Escritorio\\Ari\\Image Campus\\C#\\Image-Campus-3rd-Project\\SpaceInvader\\SpaceInvader\\SpaceInvader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ariana\\.nuget\\packages\\csfml\\2.5.2\\csfml.2.5.2.nupkg.sha512",
+    "C:\\Users\\Ariana\\.nuget\\packages\\sfml.audio\\2.5.1\\sfml.audio.2.5.1.nupkg.sha512",
+    "C:\\Users\\Ariana\\.nuget\\packages\\sfml.graphics\\2.5.1\\sfml.graphics.2.5.1.nupkg.sha512",
+    "C:\\Users\\Ariana\\.nuget\\packages\\sfml.net\\2.5.1\\sfml.net.2.5.1.nupkg.sha512",
+    "C:\\Users\\Ariana\\.nuget\\packages\\sfml.system\\2.5.1\\sfml.system.2.5.1.nupkg.sha512",
+    "C:\\Users\\Ariana\\.nuget\\packages\\sfml.window\\2.5.1\\sfml.window.2.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
